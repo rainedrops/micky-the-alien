@@ -1,0 +1,1 @@
+{"1": {"state": true, "star": [true, true, true], "score": 8750, "next": "3"}, "2": {"state": false, "star": [false, false, false], "score": 0, "next": "1"}, "3": {"state": true, "star": [true, false, false], "score": 4150, "next": "4"}, "4": {"state": true, "star": [true, false, true], "score": 3450, "next": "1"}}
